@@ -20,7 +20,7 @@ def monopoly_with_third_tier
 	     :b_and_o_railroad => {},
 	     :shortline_railroad => {}
 	    }
-	  }
+	  },
 	  :rent_in_dollars => {
 	    :one_piece_owned => 25,
 	    :two_pieces_owned => 50,
